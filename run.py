@@ -1,2 +1,2 @@
-from flask_try import create_app
+from last_flask import create_app
 app=create_app()
